@@ -1,0 +1,12 @@
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\CtripDataBaseDictionary.exe.config
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.exe
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.pdb
+E:\GitHub\Tools\DataBaseDictionary\WinForm\CtripDataBaseDictionary\bin\Debug\CtripDataBaseDictionary.exe.config
+E:\GitHub\Tools\DataBaseDictionary\WinForm\CtripDataBaseDictionary\obj\x86\Debug\CtripDataBaseDictionary.exe
+E:\GitHub\Tools\DataBaseDictionary\WinForm\CtripDataBaseDictionary\obj\x86\Debug\CtripDataBaseDictionary.pdb
+E:\GitHub\Tools\DataBaseDictionary\CtripDataBaseDictionary\bin\Debug\CtripDataBaseDictionary.exe.config
+E:\GitHub\Tools\DataBaseDictionary\CtripDataBaseDictionary\obj\x86\Debug\CtripDataBaseDictionary.exe
+E:\GitHub\Tools\DataBaseDictionary\CtripDataBaseDictionary\obj\x86\Debug\CtripDataBaseDictionary.pdb
+E:\GitHub\Tools\CtripDataBaseDictionary\bin\Debug\CtripDataBaseDictionary.exe.config
+E:\GitHub\Tools\CtripDataBaseDictionary\obj\x86\Debug\CtripDataBaseDictionary.exe
+E:\GitHub\Tools\CtripDataBaseDictionary\obj\x86\Debug\CtripDataBaseDictionary.pdb
