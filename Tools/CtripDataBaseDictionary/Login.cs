@@ -50,8 +50,9 @@ namespace CtripDataBaseDictionary
                     MessageBox.Show(@"请输入登录密码，哈");
                     return;
                 }
-                GlobalContext.SqlConnectionString = DataBaseConnectionConfig.GetDataBaseConnectionString(string.Empty);
                 DataBaseConnectionConfig.ConnectionTypeValue = string.Format("uid={0};pwd={1}", this.txtUsername.Text.Trim(), this.txtPassword.Text.Trim());
+                GlobalContext.SqlConnectionString = DataBaseConnectionConfig.GetDataBaseConnectionString(string.Empty);
+                
             }
 
             this.loginThread = new Thread(new ThreadStart(this.LoginAction));

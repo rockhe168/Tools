@@ -29,8 +29,7 @@ namespace CtripDataBaseDictionary
             return string.Format(
                 GlobalContext.SqlConnectionStringTemplate,
                 ServerName,
-                ConnectionTypeValue,
-                "database=" + databaseName);
+                ConnectionTypeValue,string.IsNullOrEmpty(databaseName) ? string.Empty :"database=" + databaseName);
         }
     }
 }

@@ -80,6 +80,7 @@
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(176, 21);
             this.txtPassword.TabIndex = 11;
+            this.txtPassword.Text = "FUTURE@future";
             this.txtPassword.UseSystemPasswordChar = true;
             // 
             // txtUsername
@@ -88,6 +89,7 @@
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(176, 21);
             this.txtUsername.TabIndex = 10;
+            this.txtUsername.Text = "sa";
             // 
             // cmbUserType
             // 
@@ -145,7 +147,7 @@
             this.txtSqlServerName.Name = "txtSqlServerName";
             this.txtSqlServerName.Size = new System.Drawing.Size(176, 21);
             this.txtSqlServerName.TabIndex = 15;
-            this.txtSqlServerName.Text = "devdb.dev.sh.ctriptravel.com,28747";
+            this.txtSqlServerName.Text = "58.64.208.135";
             // 
             // label1
             // 
