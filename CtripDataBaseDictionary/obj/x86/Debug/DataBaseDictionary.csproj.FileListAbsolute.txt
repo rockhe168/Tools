@@ -1,0 +1,16 @@
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\CtripDataBaseDictionary.exe.config
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.Login.resources
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.Main.resources
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.Properties.Resources.resources
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\DataBaseDictionary.csproj.GenerateResource.Cache
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\CtripDataBaseDictionary.exe
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\CtripDataBaseDictionary.pdb
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.Unity.dll
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.exe
+E:\GitHub\Tools\DataBaseDictionary\WinForm\RockCodeGenerator\obj\x86\Debug\CtripDataBaseDictionary.pdb
